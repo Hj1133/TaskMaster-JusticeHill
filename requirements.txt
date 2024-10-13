@@ -1,0 +1,5 @@
+Requirements for TaskMaster Application
+
+Tkinter is the only dependency. For most systems, it is already included in Python.
+
+However, if you are using a system like Ubuntu or another Linux distribution, you may need to install tkinter manually.
